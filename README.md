@@ -1,4 +1,4 @@
-Kernex's EmuBoy is a Nintendo Game Boy Color written in C.
+Kernex's EmuBoy is a Nintendo Game Boy Color Emulator written in C.
 
 It was the first emulator I wrote, around 2019. It is far from perfect, there are still several bugs that still need to be fixed.
 
